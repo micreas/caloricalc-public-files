@@ -1,1 +1,1 @@
-# caloricalc-public-files
+Public files for the Caloricalc project.
